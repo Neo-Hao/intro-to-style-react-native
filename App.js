@@ -16,7 +16,7 @@ export default function App() {
       <Text
         style={{ margin: 16, borderWidth: 2, borderColor: color, padding: 8 }}
       >
-        This dummy app change the color of a tile
+        This dummy app flips the color of a tile
       </Text>
       <Card
         style={{
@@ -45,13 +45,12 @@ const styles = StyleSheet.create({
   button: {
     backgroundColor: '#00008B',
     marginTop: 20,
-    padding: 10,
     width: 100,
+    height: 40,
     alignItems: 'center',
+    justifyContent: 'center',
   },
   buttonText: {
     color: 'white',
-    margin: 'auto',
-    padding: 'auto',
   },
 });
