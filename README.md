@@ -10,11 +10,11 @@ This is a dummy application that touches a series of knowledge points in mobile 
 
 This application will render to iOS as follows:
 
-![](./assets/ios.png)
+<img src="./assets/ios.png" width="200" />
 
 This application will render to Android as follows:
 
-![](./assets/android.png)
+<img src="./assets/android.png" width="200" />
 
 This appliation is a teaching and learning demo developed by [Qiang Hao](https://qhao.info/) for CSCI 412 Mobile Development at Western Washington University.
 
